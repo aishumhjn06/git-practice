@@ -1,2 +1,3 @@
 # git-practice
 hello !ow are you....
+hi.....2nd commit
